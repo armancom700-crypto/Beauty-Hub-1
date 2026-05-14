@@ -1,0 +1,169 @@
+
+
+body {
+    background: RGB(247, 194, 135) ;
+background: linear-gradient(90deg,rgba(247, 194, 135, 1) 0%, rgba(247, 194, 135, 1) 57%, rgba(242, 206, 172, 1) 75%, rgba(247, 194, 135, 1) 100%);
+    
+}
+
+.logo-container {
+    position: relative;
+    margin-top: 0 !important;
+
+
+}
+.form-control {
+     background-color: rgb(240, 204, 164) !important;
+     box-shadow: none !important;
+     border: none;
+     border: 1px solid rgba(245, 211, 173, 0.498)!important;
+     
+}
+.navbar-brand{
+    font-size: 40px !important;
+    color:  rgb(118, 63, 0) !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    margin-top: -135px !important;
+    margin-left: 600px !important;
+    color: orchid !important;
+
+}
+.brand {
+    position: relative;
+    margin-left: 590px;
+    margin-top: -49px;
+    font-size: 20px;
+    color:  rgb(95, 41, 0) !important;
+    font-family: myfont !important;
+}
+.paragraph {
+    font-family: myfont;
+    font-size: 80px;
+        color:  rgb(76, 37, 0) !important;
+
+}
+
+@font-face{
+    font-family: myfont;
+    src: url(font/FleurDeLeah-Regular.ttf) !important;
+}
+  @font-face {
+        font-family: myfont ;
+        src: url(font/PassionOne-Bold.ttf);
+    }
+
+
+  
+
+    .bridal {
+        position: relative;
+        margin-left: 800px;
+        margin-top: -365px;
+    }
+    .btn {
+        background-color:  rgb(244, 196, 140)!important;
+        outline-color:  crimson !important;
+    }
+    .footer-basic {
+  padding:40px 0;
+  background-color:#ffffff;
+  color:#4b4c4d;
+}
+
+.footer-basic ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic li {
+  padding:0 10px;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity:1;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+.down {
+
+background: RGB(247, 194, 135) ;
+background: linear-gradient(90deg,rgba(247, 194, 135, 1) 0%, rgba(247, 194, 135, 1) 57%, rgba(242, 206, 172, 1) 75%, rgba(247, 194, 135, 1) 100%);  width: 100% !important;
+  height: 0px !important;
+  position: relative;
+  border-top: 20px solid  rgb(118, 63, 0) ;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.card-img-top {
+    width: 263px;
+    height: 263px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 9px;
+    gap: 30px !important;
+}
+.card {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-color: rgb(247, 203, 150) !important ;
+    position: relative;
+    margin-left: 105px !important;
+    display: flex !important;
+    justify-content: space-evenly;
+
+}
+.container-cards {
+    margin-top: 50px;
+}
+.off {
+    width: 150px;
+    height: 150px;
+    color: rgb(118, 63, 0) !important;
+    position: relative;
+    margin-left: 300px;
+    margin-bottom: ;
+    border-color:rgb(118, 63, 0) !important;
+}
